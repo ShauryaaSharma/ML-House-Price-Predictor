@@ -52,7 +52,7 @@ The dataset used is the Boston Housing Dataset from Scikit-Learn, containing the
 
 ## ✅ Results & Key Takeaways
 
-✅ Random Forest outperformed other models with the best accuracy<br>
-✅ Handling missing values & attribute engineering improved model performance<br>
-✅ Cross-Validation ensured robust performance evaluation<br>
-✅ Learned how EDA, feature engineering, and model tuning improve predictions<br>
+✅ Random Forest outperformed other models with the best accuracy.<br>
+✅ Handling missing values & attribute engineering improved model performance.<br>
+✅ Cross-Validation ensured robust performance evaluation.<br>
+✅ Learned how EDA, feature engineering, and model tuning improve predictions.<br>
